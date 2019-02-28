@@ -1,5 +1,6 @@
 # EE333_GroupProject
-PDF Manipulation Tool
+PDF Manipulation Tool 
+Inspired by Apache PDFBox: https://pdfbox.apache.org
 
 # Capabilites/Features
  - Create a New .pdf File
