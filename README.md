@@ -8,6 +8,7 @@ A PDF editor program that assists in manipulating .PDF files should be coded in 
 **From Apache PDFBox**
  - pdf-2.0.14.jar
  - commons-logging-1.2.jar
+ 
  Must be added to classpath
 
 ### Capabilities and Features
