@@ -9,8 +9,17 @@
  *
  */
 
-module EE333GroupProject {
-    requires commons.logging;
-    requires pdfbox;
-    requires pdfbox.tools;
+package uab.group4.ee333;
+import org.apache.pdfbox.multipdf.Splitter;
+
+/**
+ *
+ * @author Caleb Crocker   caleb98@uab.edu
+ * @author Collin Davis    crdavis2@uab.ed
+ * @author Anthony Lee     atlee974@uab.edu
+ * @author Yasmin Sakalla  sakalyas@uab.edu
+ */
+public class Split extends Splitter {
+    
+
 }

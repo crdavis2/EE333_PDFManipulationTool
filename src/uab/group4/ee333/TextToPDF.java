@@ -9,7 +9,7 @@
  *
  */
 
-import java.util.Scanner;
+package uab.group4.ee333;
 
 /**
  *
@@ -18,10 +18,6 @@ import java.util.Scanner;
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
  */
-public class PDFManipulator {
-    
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-    }
+public class TextToPDF {
 
 }

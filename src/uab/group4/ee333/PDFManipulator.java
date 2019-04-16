@@ -1,3 +1,5 @@
+package uab.group4.ee333;
+
 /*
  * File: PDFToImage.java
  * Author: Caleb Crocker   caleb98@uab.edu
@@ -9,7 +11,7 @@
  *
  */
 
-import org.apache.pdfbox.multipdf.Splitter;
+import java.util.Scanner;
 
 /**
  *
@@ -18,7 +20,10 @@ import org.apache.pdfbox.multipdf.Splitter;
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
  */
-public class Split extends Splitter {
+public class PDFManipulator {
     
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+    }
 
 }
