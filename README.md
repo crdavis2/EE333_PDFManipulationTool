@@ -6,8 +6,14 @@ A PDF editor program that assists in manipulating .PDF files should be coded in 
 
 ### Requirements
 **From Apache PDFBox**
- - pdf-2.0.14.jar
- - commons-logging-1.2.jar
+ - pdfbox-2.0.14
+ - pdfbox.tools-2.0.15
+ - commons-logging-1.2
+**From JavaFX**
+ - javafx.base
+ - javafx.controls
+ - javafx.graphics
+
  
  Must be added to classpath
 
