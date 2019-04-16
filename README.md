@@ -8,7 +8,7 @@ A PDF editor program that assists in manipulating .PDF files should be coded in 
 **From Apache PDFBox**
  - pdfbox-2.0.14
  - pdfbox.tools-2.0.15
- - commons-logging-1.2
+ - commons-logging-1.2. 
 **From JavaFX**
  - javafx.base
  - javafx.controls
