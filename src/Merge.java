@@ -6,16 +6,17 @@
  *
  * Credits:  (if any for sections of code)
  */
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
+
+import org.apache.pdfbox.multipdf.PDFMergerUtility;
 
 /**
  *
- * @author Collin Davis crdavis2@uab.edu
+ * @author Caleb Crocker   caleb98@uab.edu
+ * @author Collin Davis    crdavis2@uab.ed
+ * @author Anthony Lee     atlee974@uab.edu
+ * @author Yasmin Sakalla  sakalyas@uab.edu
  */
-public class Merge {
+public class Merge extends PDFMergerUtility {
 
 }

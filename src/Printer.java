@@ -9,6 +9,8 @@
  *
  */
 
+import org.apache.pdfbox.printing.PDFPageable;
+
 /**
  *
  * @author Caleb Crocker   caleb98@uab.edu
@@ -16,6 +18,6 @@
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
  */
-public class Printer {
+public class Printer extends PDFPageable {
 
 }
