@@ -10,7 +10,6 @@
  */
 
 module EE333GroupProject {
-    requires commons.logging;
     requires pdfbox;
     requires pdfbox.tools;
     requires javafx.base;
