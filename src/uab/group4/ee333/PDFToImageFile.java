@@ -18,5 +18,7 @@ import org.apache.pdfbox.tools.PDFToImage;
  * @author Yasmin Sakalla  sakalyas@uab.edu
  */
 public class PDFToImageFile {
+    
+    // pdfToImageObject = new PDFToImage();
 
 }

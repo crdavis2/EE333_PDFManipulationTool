@@ -12,7 +12,7 @@
 package uab.group4.ee333.ui;
 
 // main function for the tool
-import uab.group4.ee333.PDFManipulator;
+// import uab.group4.ee333.PDFManipulator;
 
 // jfx imports
 import javafx.application.Application;

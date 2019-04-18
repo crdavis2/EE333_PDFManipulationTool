@@ -14,7 +14,8 @@ module EE333GroupProject {
     requires pdfbox.tools;
     requires javafx.base;
     requires javafx.controls;
-    requires javafx.graphics;    
+    requires javafx.graphics; 
+    requires commons.logging;
     exports uab.group4.ee333;
 }
 
