@@ -10,7 +10,7 @@
  */
 
 package uab.group4.ee333;
-import org.apache.pdfbox.printing.PDFPageable;
+// import org.apache.pdfbox.printing.PDFPageable;
 
 /**
  *
@@ -19,6 +19,6 @@ import org.apache.pdfbox.printing.PDFPageable;
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
  */
-public class Printer extends PDFPageable {
+public class Printer {
 
 }
