@@ -9,7 +9,7 @@
  *
  */
 
-package uab.group4.ee333.ui;
+package uab.group4.ee333.UI;
 
 // main function for the tool
 // import uab.group4.ee333.PDFManipulator;

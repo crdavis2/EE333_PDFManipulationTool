@@ -17,6 +17,7 @@ module EE333GroupProject {
     requires javafx.graphics; 
     requires commons.logging;
     exports uab.group4.ee333;
+    exports uab.group4.ee333.UI;
 }
 
 
