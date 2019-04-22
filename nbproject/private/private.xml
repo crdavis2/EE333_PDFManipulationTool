@@ -3,7 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Collin%20Davis/Documents/CoolBeansProjects/EE333_PDFManipulationTool/src/module-info.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/uab/group4/ee333/Printer.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/uab/group4/ee333/Split.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/uab/group4/ee333/Merge.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/uab/group4/ee333/TextToPDF.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/uab/group4/ee333/PDFToImageFile.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/module-info.java</file>
+            <file>file:/Users/crdavis2/CoolBeansProjects/EE333GroupProject/src/uab/group4/ee333/UI/PDFUI.java</file>
         </group>
     </open-files>
 </project-private>

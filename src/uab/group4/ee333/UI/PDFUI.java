@@ -32,30 +32,31 @@ import javafx.stage.Stage;
  * @author Yasmin Sakalla  sakalyas@uab.edu
  */
 public class PDFUI extends Application {
-    private ComboBox functionBox;
-    
+    private ComboBox<String> functionBox;
+
     @Override
     public void start(Stage stage) {
         stage.setTitle("PDF Editor");
-        
+
         GridPane grid=new GridPane();
         grid.setAlignment(Pos.TOP_CENTER);
         grid.setPadding(new Insets(20, 20, 20, 20));
         grid.setHgap(10);
         grid.setVgap(10);
-        
+
         Scene scene=new Scene(grid);
-        
+
         grid.add(new Label("Function"), 0, 0);
-        functionBox=new ComboBox();
+        functionBox=new ComboBox<>();
         functionBox.getItems().addAll("Split", "Merge", "PDF to Image", "Text t"
-            + "o PDF", "Print");
-        
+                + "o PDF", "Print");
+
         grid.add(functionBox, 1, 0);
-        
+
         stage.setScene(scene);
         stage.show();
     }
+
     
     public static void main(String[] args) {
         launch(args);
