@@ -27,6 +27,8 @@ import uab.group4.ee333.Split;
  * @author Collin Davis    crdavis2@uab.ed
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
+ * 
+ * PDFUI class builds the GUI for the PDFTool
  */
 public class PDFUI extends Application {
     // GUI Elements
@@ -157,6 +159,10 @@ public class PDFUI extends Application {
         launch(args);
     }
     
+    /**
+    * Sets various elements of the GUI to be visible or invisible based
+    * on options chosen by the user
+    */
     private void functionSelect() {
         String function = functionBox.getValue();
         if (function.equals("Split")) {
@@ -194,6 +200,11 @@ public class PDFUI extends Application {
         }
     }
     
+    /**
+    * Sets various elements of the Split section of the GUI to be 
+    * visible or invisible based on options chosen by the user.
+    *
+    */
     private void splitSelected() {
         String option = splitOption.getValue();
         splitLabel.setVisible(true);
@@ -215,6 +226,10 @@ public class PDFUI extends Application {
         }
     }
     
+    /** 
+    * Dicates the passage of input from the user to the appropriate
+    * class (Merge or Split) to perform the desired action(s)
+    */
     private void goButtonClicked() {
         String[] args;
         String function = functionBox.getValue();
