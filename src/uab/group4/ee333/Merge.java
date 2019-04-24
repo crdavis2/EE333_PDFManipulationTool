@@ -17,6 +17,8 @@ import java.io.File;
  * @author Collin Davis    crdavis2@uab.ed
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
+ * 
+ * Merge class appends one PDF to the end of another
  */
 public class Merge {
     public static void main(String[] args) {
