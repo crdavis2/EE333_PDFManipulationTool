@@ -22,6 +22,8 @@ import java.util.Iterator;
  * @author Collin Davis    crdavis2@uab.ed
  * @author Anthony Lee     atlee974@uab.edu
  * @author Yasmin Sakalla  sakalyas@uab.edu
+ * 
+ * Split class separates one PDF into multiple depending on settings
  */
 public class Split {
     public static void main(String[] args) {
