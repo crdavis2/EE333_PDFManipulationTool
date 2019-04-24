@@ -6,7 +6,7 @@
  * Author: Yasmin Sakalla  sakalyas@uab.edu
  * Assignment:  EE333GroupProject - EE333 Spring 2019
  * Vers: 1.0.0 04/17/2019 CLC - initial coding
- *
+ * Vers: 1.1.0 04/20/2019 CLD - advancement of initial coding
  */
 
 package uab.group4.ee333.UI;
